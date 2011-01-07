@@ -1,0 +1,7 @@
+### create_repo.sh
+
+放在你的`/home/git/`底下，執行這支程式，就可以建立好一個git的repo。
+
+### httpd-git.conf
+
+直接讓主要的httpd.conf去include就可以了

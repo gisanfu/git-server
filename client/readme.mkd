@@ -1,0 +1,7 @@
+### .netrc
+
+只要先在這個檔案設定好帳號密碼，和主機目標，
+
+就可以直接使用下面的指令來下clone的動作
+
+	git clone http://GIT.YOUR-GIT-SERVER.COM/your-repo
