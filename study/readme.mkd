@@ -1,0 +1,14 @@
+### there is my study file
+
+#### Problem01
+
+當我使用主機上的root來push給本機的git-server，
+
+這時會出現其它台電腦沒有辦法pull下來的情況，
+
+這時主機的該git repo資料夾，必需要下以下的指令，
+
+才會正常，不知道是什麼問題。
+
+	cd /YOUR-GIT-REPO-PATH/YOUR-REPO-NAME
+	git update-server-info
